@@ -71,7 +71,7 @@ ___
 ## 🎨 Layout
 The page in desktop format is seen in the image below:
 
-![Screenshot 2024-03-19 at 12 53 26](https://github.com/ruivergani/angular-fyp/assets/70537459/7972f5c5-2ad1-4544-8185-85655367b775)
+![Screenshot 2024-03-19 at 13 06 35](https://github.com/ruivergani/angular-fyp/assets/70537459/089f7c4e-4558-4960-b18b-9d84ce72a813)
 
 ___
 
