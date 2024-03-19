@@ -26,6 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+___
+
 <p align="center">
   <h1 align="center"><a href="https://ruivergani.com/">A Comparative Study and Algorithm Development for Evaluating React.js, Vue.js, and Angular in Single-Page Application Development</a></h1>
 </p>
@@ -47,8 +49,6 @@ The primary objectives of this project are:
 - To assess the performance metrics such as speed, memory usage, and rendering capabilities of each framework.
 - To develop algorithms that can objectively evaluate the suitability of each framework for different types of SPA projects.
 - To provide insights and recommendations for developers and organizations in selecting the appropriate framework for their projects.
-___
-
 ___
 
 ## 💻 Methodology
